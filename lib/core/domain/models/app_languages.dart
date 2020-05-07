@@ -1,0 +1,1 @@
+enum AppLanguages{ukrainian, english, russian}

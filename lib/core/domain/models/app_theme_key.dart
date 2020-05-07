@@ -1,0 +1,1 @@
+enum AppThemeKey { light, dark, standard }
